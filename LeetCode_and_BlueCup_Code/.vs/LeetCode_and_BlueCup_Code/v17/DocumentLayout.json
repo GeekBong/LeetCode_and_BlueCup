@@ -1,7 +1,15 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\~~~Blue5003.\u53CD\u5F02\u621601\u4E32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|solutionrelative:~~~Blue5003.\u53CD\u5F02\u621601\u4E32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\UTILITY||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +17,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "utility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility",
+              "ViewState": "AQIAAO0CAAAAAAAAAAAmwPMCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-05T01:32:07.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "~~~Blue5003.\u53CD\u5F02\u621601\u4E32.cpp",
+              "DocumentMoniker": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\~~~Blue5003.\u53CD\u5F02\u621601\u4E32.cpp",
+              "RelativeDocumentMoniker": "~~~Blue5003.\u53CD\u5F02\u621601\u4E32.cpp",
+              "ToolTip": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\~~~Blue5003.\u53CD\u5F02\u621601\u4E32.cpp",
+              "RelativeToolTip": "~~~Blue5003.\u53CD\u5F02\u621601\u4E32.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T01:29:02.853Z",
+              "EditorCaption": ""
             }
           ]
         }
