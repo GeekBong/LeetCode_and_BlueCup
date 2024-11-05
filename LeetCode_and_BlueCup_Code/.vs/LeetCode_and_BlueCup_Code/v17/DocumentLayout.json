@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\Leet3222.\u6C42\u51FA\u786C\u5E01\u6E38\u620F\u7684\u73A9\u5BB6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|solutionrelative:Leet3222.\u6C42\u51FA\u786C\u5E01\u6E38\u620F\u7684\u73A9\u5BB6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\Solution_of_Leet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|solutionrelative:Solution_of_Leet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\~~~Blue5003.\u53CD\u5F02\u621601\u4E32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|solutionrelative:~~~Blue5003.\u53CD\u5F02\u621601\u4E32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\UTILITY||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\Blue1602.\u51FA\u73B0\u6700\u591A\u7684\u5B57\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|solutionrelative:Blue1602.\u51FA\u73B0\u6700\u591A\u7684\u5B57\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,27 +37,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "utility",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility",
-              "ViewState": "AQIAAO0CAAAAAAAAAAAmwPMCAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-05T01:32:07.704Z",
+              "DocumentIndex": 0,
+              "Title": "Leet3222.\u6C42\u51FA\u786C\u5E01\u6E38\u620F\u7684\u73A9\u5BB6.cpp",
+              "DocumentMoniker": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\Leet3222.\u6C42\u51FA\u786C\u5E01\u6E38\u620F\u7684\u73A9\u5BB6.cpp",
+              "RelativeDocumentMoniker": "Leet3222.\u6C42\u51FA\u786C\u5E01\u6E38\u620F\u7684\u73A9\u5BB6.cpp",
+              "ToolTip": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\Leet3222.\u6C42\u51FA\u786C\u5E01\u6E38\u620F\u7684\u73A9\u5BB6.cpp",
+              "RelativeToolTip": "Leet3222.\u6C42\u51FA\u786C\u5E01\u6E38\u620F\u7684\u73A9\u5BB6.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T05:52:35.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Blue1602.\u51FA\u73B0\u6700\u591A\u7684\u5B57\u7B26.cpp",
+              "DocumentMoniker": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\Blue1602.\u51FA\u73B0\u6700\u591A\u7684\u5B57\u7B26.cpp",
+              "RelativeDocumentMoniker": "Blue1602.\u51FA\u73B0\u6700\u591A\u7684\u5B57\u7B26.cpp",
+              "ToolTip": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\Blue1602.\u51FA\u73B0\u6700\u591A\u7684\u5B57\u7B26.cpp",
+              "RelativeToolTip": "Blue1602.\u51FA\u73B0\u6700\u591A\u7684\u5B57\u7B26.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T05:52:23.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solution_of_Leet.h",
+              "DocumentMoniker": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\Solution_of_Leet.h",
+              "RelativeDocumentMoniker": "Solution_of_Leet.h",
+              "ToolTip": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\Solution_of_Leet.h",
+              "RelativeToolTip": "Solution_of_Leet.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-05T05:34:33.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "~~~Blue5003.\u53CD\u5F02\u621601\u4E32.cpp",
               "DocumentMoniker": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\~~~Blue5003.\u53CD\u5F02\u621601\u4E32.cpp",
               "RelativeDocumentMoniker": "~~~Blue5003.\u53CD\u5F02\u621601\u4E32.cpp",
               "ToolTip": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\~~~Blue5003.\u53CD\u5F02\u621601\u4E32.cpp",
               "RelativeToolTip": "~~~Blue5003.\u53CD\u5F02\u621601\u4E32.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAcwA8AAAAWAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwAwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-05T01:29:02.853Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "utility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility",
+              "ViewState": "AQIAAO0CAAAAAAAAAAAmwPMCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-05T01:32:07.704Z"
             }
           ]
         }

@@ -26,16 +26,13 @@
     <ClCompile Include="Blue2360.互质.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Blue1597.IP补充.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Blue1602.出现最多的字符.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Blue1605.直角三角形.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="~~~Blue5003.反异或01串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leet3222.求出硬币游戏的玩家.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leet_Main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

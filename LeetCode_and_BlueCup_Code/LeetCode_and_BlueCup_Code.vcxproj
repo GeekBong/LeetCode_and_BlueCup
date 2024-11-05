@@ -130,10 +130,9 @@
     <ClInclude Include="Solution_of_Leet.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Blue1597.IP补充.cpp" />
-    <ClCompile Include="Blue1602.出现最多的字符.cpp" />
-    <ClCompile Include="Blue1605.直角三角形.cpp" />
     <ClCompile Include="Blue2360.互质.cpp" />
+    <ClCompile Include="Leet3222.求出硬币游戏的玩家.cpp" />
+    <ClCompile Include="Leet_Main.cpp" />
     <ClCompile Include="~~~Blue5003.反异或01串.cpp" />
     <ClCompile Include="Leet633.平方数之和.cpp" />
   </ItemGroup>
