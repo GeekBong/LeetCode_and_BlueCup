@@ -130,11 +130,10 @@
     <ClInclude Include="Solution_of_Leet.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Blue2360.互质.cpp" />
-    <ClCompile Include="Leet3222.求出硬币游戏的玩家.cpp" />
+    <ClCompile Include="~~~Leet3222.求出硬币游戏的玩家.cpp" />
+    <ClCompile Include="Leet3254. 长度为 K 的子数组的能量值 I.cpp" />
     <ClCompile Include="Leet_Main.cpp" />
     <ClCompile Include="~~~Blue5003.反异或01串.cpp" />
-    <ClCompile Include="Leet633.平方数之和.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -20,19 +20,16 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Leet633.平方数之和.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Blue2360.互质.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="~~~Blue5003.反异或01串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Leet3222.求出硬币游戏的玩家.cpp">
+    <ClCompile Include="~~~Leet3222.求出硬币游戏的玩家.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Leet_Main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leet3254. 长度为 K 的子数组的能量值 I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
