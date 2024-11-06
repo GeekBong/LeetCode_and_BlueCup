@@ -32,5 +32,8 @@
     <ClCompile Include="Leet3254. 长度为 K 的子数组的能量值 I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Blue1259.奇怪的捐赠.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
