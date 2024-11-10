@@ -1,5 +1,45 @@
 #include "Solution_of_Leet.h"
 int main() {
+	
+	//263. Ugly Number
+	std::cout << std::boolalpha;//true or false
+	//cout << "test1[1](预期：true):" << isUgly(1) << endl;
+	//cout << "test2[4](预期：false):" << isUgly(4) << endl;
+	cout << isUgly(14);
+
+	/*769. 最多能完成排序的块*/
+	/*cout << "\ntest1(预期：1):";
+	int arr1[] = { 4,3,2,1,0 };
+	vector<int> v_arr1;
+	for (int i = 0; i < sizeof(arr1)/sizeof(arr1[0]); i++) {
+		v_arr1.push_back(arr1[i]);
+	}
+	cout << maxChunksToSorted(v_arr1);
+
+	cout << "\ntest2(预期：4):";
+	int arr2[] = { 1,0,2,3,4 };
+	vector<int> v_arr2;
+	for (int i = 0; i < sizeof(arr2) / sizeof(arr2[0]); i++) {
+		v_arr2.push_back(arr2[i]);
+	}
+	cout << maxChunksToSorted(v_arr2);
+
+	cout << "\ntest3(预期：2):";
+	int arr3[] = { 0,1 };
+	vector<int> v_arr3;
+	for (int i = 0; i < sizeof(arr3) / sizeof(arr3[0]); i++) {
+		v_arr3.push_back(arr3[i]);
+	}
+	cout << maxChunksToSorted(v_arr3);
+
+	cout << "\ntest4(预期：2):";
+	int arr4[] = { 3,2,1,0,4 };
+	vector<int> v_arr4;
+	for (int i = 0; i < sizeof(arr3) / sizeof(arr3[0]); i++) {
+		v_arr3.push_back(arr3[i]);
+	}
+	cout << maxChunksToSorted(v_arr3);*/
+	
 	/*3254. 长度为 K 的子数组的能量值 I*/
 	/*vector<int> nums1 = { 1,2,3,4,3,2,5 }; int k1 = 3;
 	vector<int> res1 = resultsArray1(nums1,k1);
@@ -40,38 +80,4 @@ int main() {
 	for (int i = 0; i < res3.size(); i++) {
 		cout << res3[i] << ",";
 	}*/
-
-	/*769. 最多能完成排序的块*/
-	cout << "\ntest1(预期：1):";
-	int arr1[] = { 4,3,2,1,0 };
-	vector<int> v_arr1;
-	for (int i = 0; i < sizeof(arr1)/sizeof(arr1[0]); i++) {
-		v_arr1.push_back(arr1[i]);
-	}
-	cout << maxChunksToSorted(v_arr1);
-
-	cout << "\ntest2(预期：4):";
-	int arr2[] = { 1,0,2,3,4 };
-	vector<int> v_arr2;
-	for (int i = 0; i < sizeof(arr2) / sizeof(arr2[0]); i++) {
-		v_arr2.push_back(arr2[i]);
-	}
-	cout << maxChunksToSorted(v_arr2);
-
-	cout << "\ntest3(预期：2):";
-	int arr3[] = { 0,1 };
-	vector<int> v_arr3;
-	for (int i = 0; i < sizeof(arr3) / sizeof(arr3[0]); i++) {
-		v_arr3.push_back(arr3[i]);
-	}
-	cout << maxChunksToSorted(v_arr3);
-
-	cout << "\ntest4(预期：2):";
-	int arr4[] = { 3,2,1,0,4 };
-	vector<int> v_arr4;
-	for (int i = 0; i < sizeof(arr3) / sizeof(arr3[0]); i++) {
-		v_arr3.push_back(arr3[i]);
-	}
-	cout << maxChunksToSorted(v_arr3);
-
 }

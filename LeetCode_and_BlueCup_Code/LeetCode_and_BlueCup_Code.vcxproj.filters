@@ -38,7 +38,10 @@
     <ClCompile Include="Leet3255. 长度为 K 的子数组的能量值 II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Leet769. 最多能完成排序的块.cpp">
+    <ClCompile Include="~~~Leet769. 最多能完成排序的块.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="263.丑数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
