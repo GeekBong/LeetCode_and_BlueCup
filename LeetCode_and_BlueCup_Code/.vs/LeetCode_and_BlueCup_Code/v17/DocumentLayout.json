@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\Leet1470.\u91CD\u65B0\u6392\u5217\u6570\u7EC4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|solutionrelative:Leet1470.\u91CD\u65B0\u6392\u5217\u6570\u7EC4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\263.\u4E11\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{40BD404C-2AE8-4E4E-99B1-1082F5A4DF63}|LeetCode_and_BlueCup_Code.vcxproj|solutionrelative:263.\u4E11\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -22,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Solution_of_Leet.h",
               "DocumentMoniker": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\Solution_of_Leet.h",
               "RelativeDocumentMoniker": "Solution_of_Leet.h",
@@ -35,7 +39,19 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-05T05:34:33.062Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Leet1470.\u91CD\u65B0\u6392\u5217\u6570\u7EC4.cpp",
+              "DocumentMoniker": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\Leet1470.\u91CD\u65B0\u6392\u5217\u6570\u7EC4.cpp",
+              "RelativeDocumentMoniker": "Leet1470.\u91CD\u65B0\u6392\u5217\u6570\u7EC4.cpp",
+              "ToolTip": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\Leet1470.\u91CD\u65B0\u6392\u5217\u6570\u7EC4.cpp",
+              "RelativeToolTip": "Leet1470.\u91CD\u65B0\u6392\u5217\u6570\u7EC4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T12:29:03.425Z",
               "EditorCaption": ""
             },
             {
@@ -44,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Leet_Main.cpp",
               "DocumentMoniker": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\Leet_Main.cpp",
               "RelativeDocumentMoniker": "Leet_Main.cpp",
@@ -52,12 +68,11 @@
               "RelativeToolTip": "Leet_Main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-10T12:23:20.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T12:23:20.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "263.\u4E11\u6570.cpp",
               "DocumentMoniker": "D:\\Code\\LeetCode_and_BlueCup\\LeetCode_and_BlueCup_Code\\263.\u4E11\u6570.cpp",
               "RelativeDocumentMoniker": "263.\u4E11\u6570.cpp",

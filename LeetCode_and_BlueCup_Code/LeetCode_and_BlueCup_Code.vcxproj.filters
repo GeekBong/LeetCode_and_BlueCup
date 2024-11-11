@@ -44,5 +44,8 @@
     <ClCompile Include="263.丑数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Leet1470.重新排列数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
