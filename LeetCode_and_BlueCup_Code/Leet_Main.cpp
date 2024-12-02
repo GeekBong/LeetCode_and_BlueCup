@@ -1,11 +1,14 @@
 #include "Solution_of_Leet.h"
+
 int main() {
 	
 	//263. Ugly Number
+	/*
 	std::cout << std::boolalpha;//true or false
 	//cout << "test1[1](预期：true):" << isUgly(1) << endl;
 	//cout << "test2[4](预期：false):" << isUgly(4) << endl;
 	cout << isUgly(14);
+	*/
 
 	/*769. 最多能完成排序的块*/
 	/*cout << "\ntest1(预期：1):";
@@ -80,4 +83,15 @@ int main() {
 	for (int i = 0; i < res3.size(); i++) {
 		cout << res3[i] << ",";
 	}*/
+
+	//Leet51. N 皇后
+	class Solution demo;
+	vector<vector<string>> res = demo.solveNQueens(4);
+	for (int i = 0; i < res.size(); i++) {
+		for (int j = 0; j < res[i].size(); j++) {
+			cout << res[i][j] << "\t";
+		}
+		cout << endl;
+	}
+	return 0;
 }

@@ -1,2 +1,8 @@
-﻿  263.丑数.cpp
+﻿  Leet3255. 长度为 K 的子数组的能量值 II.cpp
+  ~~~Leet769. 最多能完成排序的块.cpp
+D:\Code\LeetCode_and_BlueCup\LeetCode_and_BlueCup_Code\~~~Leet769. 最多能完成排序的块.cpp(7,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\LeetCode_and_BlueCup\LeetCode_and_BlueCup_Code\~~~Leet769. 最多能完成排序的块.cpp(15,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leet3254. 长度为 K 的子数组的能量值 I.cpp
+  Leet_Main.cpp
+  正在生成代码...
   LeetCode_and_BlueCup_Code.vcxproj -> D:\Code\LeetCode_and_BlueCup\LeetCode_and_BlueCup_Code\x64\Debug\LeetCode_and_BlueCup_Code.exe
